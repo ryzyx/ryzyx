@@ -4,7 +4,7 @@
  - 👯 I'm looking to collaborate on full stack web apps!
  - 🤔 I'm looking for help with Typescript and React
  - 💬 Ask me about JS, Anime, cool places and gaming.
- - 📫 How to reach me: ["https://image.pngaaa.com/684/3821684-middle.png"](https://discord.bio/p/ryzyx)
+ - 📫 How to reach me: [<img src="https://image.pngaaa.com/684/3821684-middle.png">](https://discord.bio/p/ryzyx)
  - 😄 Pronouns: he/him
  - ⚡ Fun fact: I like scrolling GitHub. If you have a cool project. Contact Me!
 
@@ -17,7 +17,7 @@
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="30px"></span>
 
-<h3>things What I Am Learning </h3>
+<h3>What I Am Learning </h3>
 
 <br>
 
