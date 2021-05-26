@@ -4,8 +4,7 @@
  - 👯 I'm looking to collaborate on full stack web apps!
  - 🤔 I'm looking for help with Typescript and React
  - 💬 Ask me about JS, Anime, cool places and gaming.
- - 📫 How to reach me: ![https://dsc.bio/ryzyx](https://user-images.githubusercontent.com/57099786/119675999-23642880-be5b-11eb-823d-185cc455524b.png)
-
+ - 📫 How to reach me: <img src ="https://user-images.githubusercontent.com/57099786/119676178-4abaf580-be5b-11eb-9143-e2c5b448113a.png" height=30px>
  - 😄 Pronouns: he/him
  - ⚡ Fun fact: I like scrolling GitHub. If you have a cool project. Contact Me!
 
