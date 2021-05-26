@@ -1,6 +1,5 @@
 ![image](https://user-images.githubusercontent.com/57099786/119670401-7e475100-be56-11eb-8a10-1d3900c2685d.png)
 
-- 👋 Hi, I’m @ryzyx
 - 👀 I’m interested in coding discord bots
 - 🌱 I’m currently good at Javascript and I hope to learn Python
 - 💞️ I’m looking to collaborate on discord bots
