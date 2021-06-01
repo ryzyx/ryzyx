@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/57099786/119670401-7e475100-be56-11eb-8a10-1d3900c2685d.png)
 
  - 🌱 I'm currently learning TypeScript. 
- - 👯 I'm looking to collaborate on full stack web apps!
+ - 👯 I'm looking to collaborate on Discord Bots. 
  - 🤔 I'm looking for help with Typescript and React
  - 💬 Ask me about JS, Anime, cool places and gaming.
  - 📫 How to reach me: [Discord](https://dsc.bio/ryzyx)
